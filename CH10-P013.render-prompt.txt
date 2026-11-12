@@ -1,0 +1,66 @@
+Render CH10-P013 at 1024×1536 pixels as two registered PNG files plus one authoritative text file: IAKESI-CH10-013-art.png, IAKESI-CH10-013-lettering.png, and IAKESI-CH10-013-text.txt.
+ARTWORK FILE — IAKESI-CH10-013-art.png: finished full-color page artwork only. Include panels, gutters, environments, characters, props, lighting and visual effects; include no speech balloons, thought balloons, narration boxes, lettering, captions, non-diegetic SFX, page numbers, panel numbers, or lettering placeholders.
+LETTERING FILE — IAKESI-CH10-013-lettering.png: transparent RGBA overlay at the identical pixel dimensions and registration. Include only the specified speech balloons, thought balloons, narration boxes, tails/dots, text, and non-diegetic SFX. Every other pixel must remain transparent; include no artwork and no page number.
+OUTPUT DIRECTORY — BINDING: place all three deliverables in the RenderedPages/ subdirectory of the current chapter project directory. Create RenderedPages/ if it does not exist, when filesystem access is available. Required relative output paths: RenderedPages/IAKESI-CH10-013-art.png; RenderedPages/IAKESI-CH10-013-lettering.png; RenderedPages/IAKESI-CH10-013-text.txt. Do not place final deliverables in RenderPackages/ or the chapter root. If rendering takes place in an environment without access to the user's chapter filesystem, return the three files with these exact filenames for installation into RenderedPages/; do not claim they were saved locally.
+Use 5 panels arranged vertically in reading order.
+Use the attached page package as the authoritative resolved SBL source if any ambiguity remains.
+Global production rules — BINDING:
+- Print Target: Amazon KDP Premium Color paperback, 6 x 9 inch final trim
+- Lettering Authority: Clip Studio Paint
+- Final Lettering: ALL CAPS; Chapter 11 Page 4 style; no bold; italics only for emphasis
+- Art Png: Artwork only; no non-diegetic text/balloons/tails/captions/folios/page numbers/panel numbers.
+- Lettering Png: Transparent RGBA provisional registration overlay; exactly 1024x1536 and registration-identical to ART PNG.
+- Text Txt: Authoritative exact reader-visible wording by panel.
+- Folios: separate assets added later
+Use these attached canonical/authoritative references as binding for the aspects they define: Assets/Midori Character Sheet 13A.png, Assets/Midori Character Sheet 13B.png, Assets/Midori Character Sheet 13C.png, Assets/Seraphine character sheet.png, Assets/Lucia Character Sheet.png, Assets/Lucia model sheet.png, Assets/Lucia Expression Sheet.png, Assets/Shrine-Maiden-Costume-Production-Sheet.png, Assets/Temple-of-Light-Evolution-Sheet.png, Assets/Temple-of-Light-Mature-Exterior.png.
+Do not draw trim, crop, registration, bleed, or production marks.
+
+Panel 1:
+- Panel direction (not printed text): Midori's black hair must remain immediately readable; reactions should match the established progression and never become generic hostility.
+- Setting: Temple corridor leading into Lucia's writing study.
+- Camera: Use the dominant large panel as the visual anchor; establish clearly before moving to closer reaction/detail coverage. Use readable inserts/over-shoulder views for written material rather than distant illegible props.
+- Scene: Temple corridor. Midori walks beside Seraphine. She carries the small lesson notebook Roselyn has given her.
+- Blocking: Midori, Seraphine, and Lucia.
+- Action: Temple corridor. Midori walks beside Seraphine. She carries the small lesson notebook Roselyn has given her.
+- CH10-P013-S01-t4: Midori, speech balloon (one speaker tail): “Lady Roselyn said I should learn to read next.”
+- CH10-P013-S01-t5: Seraphine, connected speech-balloon chain with 2 balloons; exactly one tail on the entire chain points to Seraphine: “Yes.” -> “Everything else depends upon it.”
+
+Panel 2:
+- Panel direction (not printed text): Midori's black hair must remain immediately readable; reactions should match the established progression and never become generic hostility.
+- Setting: Temple corridor leading into Lucia's writing study.
+- Camera: Use the dominant large panel as the visual anchor; establish clearly before moving to closer reaction/detail coverage. Use readable inserts/over-shoulder views for written material rather than distant illegible props.
+- Scene: They stop outside another study. Unlike Roselyn's room, this one has shelves filled with writing tablets, scrolls, maps, and copybooks. Seraphine gently knocks. Inside. Lucia looks up from her desk. She smiles.
+- Blocking: Midori, Seraphine, and Lucia.
+- Action: They stop outside another study. Unlike Roselyn's room, this one has shelves filled with writing tablets, scrolls, maps, and copybooks. Seraphine gently knocks. Inside. Lucia looks up from her desk. She smiles.
+- CH10-P013-S02-t7: Lucia, speech balloon (one speaker tail): “High Priestess.”
+
+Panel 3:
+- Panel direction (not printed text): Midori's black hair must remain immediately readable; reactions should match the established progression and never become generic hostility.
+- Setting: Temple corridor leading into Lucia's writing study.
+- Camera: Use the dominant large panel as the visual anchor; establish clearly before moving to closer reaction/detail coverage. Use readable inserts/over-shoulder views for written material rather than distant illegible props.
+- Scene: Midori steps into the room. Lucia's eyes settle immediately on Midori's black hair. She clearly recognizes her from the reports already circulating through the Temple. Seeing the black hair in person still gives Lucia a brief involuntary pause. She regains her composure almost immediately. Midori notices the reaction but says nothing.
+- Blocking: Midori, Seraphine, and Lucia.
+- Action: Midori steps into the room. Lucia's eyes settle immediately on Midori's black hair. She clearly recognizes her from the reports already circulating through the Temple. Seeing the black hair in person still gives Lucia a brief involuntary pause. She regains her composure almost immediately. Midori notices the reaction but says nothing.
+
+Panel 4:
+- Panel direction (not printed text): Midori's black hair must remain immediately readable; reactions should match the established progression and never become generic hostility.
+- Setting: Temple corridor leading into Lucia's writing study.
+- Camera: Use the dominant large panel as the visual anchor; establish clearly before moving to closer reaction/detail coverage. Use readable inserts/over-shoulder views for written material rather than distant illegible props.
+- Scene: Seraphine notices but does not intervene. Lucia looks from Midori to Seraphine.
+- Blocking: Midori, Seraphine, and Lucia.
+- Action: Seraphine notices but does not intervene. Lucia looks from Midori to Seraphine.
+- CH10-P013-S04-t3: Lucia, speech balloon (one speaker tail): “So this is Lady Midori.”
+- CH10-P013-S04-t4: Seraphine, speech balloon (one speaker tail): “Yes.”
+
+Panel 5:
+- Panel direction (not printed text): Midori's black hair must remain immediately readable; reactions should match the established progression and never become generic hostility.
+- Setting: Temple corridor leading into Lucia's writing study.
+- Camera: Use the dominant large panel as the visual anchor; establish clearly before moving to closer reaction/detail coverage. Use readable inserts/over-shoulder views for written material rather than distant illegible props.
+- Scene: Lucia gives Midori a measured, professional bow. The moment of surprise has passed. She addresses Midori directly. Seraphine smiles slightly. Midori smiles with quiet relief.
+- Blocking: Midori, Seraphine, and Lucia.
+- Action: Lucia gives Midori a measured, professional bow. The moment of surprise has passed. She addresses Midori directly. Seraphine smiles slightly. Midori smiles with quiet relief.
+- CH10-P013-S05-t4: Lucia, speech balloon (one speaker tail): “Then let us see what you already know.”
+
+Story lettering rule: use exactly the 7 panel/story lettered items listed above, verbatim and in the stated balloon/chain structure. Do not invent, paraphrase, continue, summarize, or add any other story text. Page numbers are not part of this handoff and must not be rendered.
+PRODUCTION FOLIO RULE — BINDING: do not add a page number or panel number to either output. Folios are added manually in CSP.
+DELIVERY CHECK: return IAKESI-CH10-013-art.png and IAKESI-CH10-013-lettering.png as the two registered PNG layers. The companion IAKESI-CH10-013-text.txt is the authoritative wording file; both PNGs must be 1024×1536 pixels, perfectly registered, and unflattened.
